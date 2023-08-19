@@ -27,9 +27,9 @@
 </p>
 
 <p align="center">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=notion&svgfill=ffffff">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=trello&svgfill=087dc1">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f05639">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=ffffff">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=notion&svgfill=ffffff">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=trello&svgfill=087dc1">
+<!--   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=ffffff"> -->
 </p>
