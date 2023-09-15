@@ -23,10 +23,10 @@
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactrouter&svgfill=d10a22">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </p>
 
 <p align="center">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Tanstack-Query&svgfill=f05639">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f05639">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
