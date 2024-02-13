@@ -30,6 +30,7 @@
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactrouter&svgfill=d10a22">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=React-Query&svgfill=f05639">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDB&svgfill=00684a">
 </p>
 
 <p align="center">
